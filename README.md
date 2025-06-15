@@ -1,4 +1,4 @@
-# ObjectAttractionAI
+# Attention Tracker
 
 Computer vision system tracking human trajectories to identify attractive objects in video streams using YOLOv8 and vector analysis.
 
